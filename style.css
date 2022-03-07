@@ -1,0 +1,23 @@
+.top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.profile{
+    margin-right: 20%;
+    margin-top: 3%;
+    border: 5px solid black;
+    
+
+
+    }
+.metaData{
+    margin-top: 3%;
+    
+}
+.nikhil{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
